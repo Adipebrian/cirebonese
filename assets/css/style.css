@@ -28,7 +28,7 @@
 
 /* About */
 .about {
-  background-image: url(/assets/img/background.png);
+  background-image: url(../../assets/img/background.png);
   background-position: center;
   background-size: contain;
   display: flex;
@@ -210,7 +210,8 @@
 }
 
 /* Page login & 404*/
-.not_found,.login {
+.not_found,
+.login {
   background-color: #42c2ff;
   width: 100vw;
   height: 100vh;
